@@ -1,3 +1,9 @@
 body {
-  background-color: aqua;
+  text-align: center;
+}
+
+main {
+  background-color: antiquewhite;
+  width: 500px;
+  justify-self: center;
 }
